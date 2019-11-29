@@ -6,7 +6,7 @@ get '/' do
 end
   # This is a sample static route.
 #   get '/hello' do
-#     erb  :hello
+#     'Hello World'
 #   end
 #
 #   # This is a sample dynamic route.
