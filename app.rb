@@ -5,9 +5,9 @@ get '/' do
   "Hello World"
 end
   # This is a sample static route.
-#   get '/hello' do
-#     'Hello World'
-#   end
+  get '/hello' do
+    'Hello World'
+  end
 #
 #   # This is a sample dynamic route.
 #   get "/hello/:name" do
